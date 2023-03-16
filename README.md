@@ -1,4 +1,6 @@
 # Hello-World-Github
 
-This is a hello world project for usage of GitHub. 
-I added this line in features branch.
+Hello, I'm Ho Chun Wai!
+
+My student number is 1155158936.
+
